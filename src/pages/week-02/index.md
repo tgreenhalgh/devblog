@@ -1,7 +1,7 @@
 ---
 title: Week 2
 date: "2018-11-16"
-featuredImage: './facebookLogin.png'
+# featuredImage: './facebookLogin.png'
 ---
 
 ## Week 2 - APIs gone wild
