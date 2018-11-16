@@ -15,32 +15,32 @@ This week I had 11 commits in 9 PRs.
 
 Front End tasks
 *   Connect front/back ends
-    *   https://trello.com/c/GxtRhHB0
-    *   https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/20
+    *   [Trello Card](https://trello.com/c/GxtRhHB0)
+    *   [Github link](https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/20)
 *   Build Login component
-    *   https://trello.com/c/GxtRhHB0
-    *   https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/21
+    *   [Trello Card](https://trello.com/c/GxtRhHB0)
+    *   [Github link](https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/21)
 *   Fix login bugs
-    *   https://trello.com/c/LlSIr6ua
-    *   https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/39
+    *   [Trello Card](https://trello.com/c/LlSIr6ua)
+    *   [Github link](https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/39)
 *   Adds "gated" components - only accessible when logged in
-    *   https://trello.com/c/uVmA98D9
-    *   https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/42
+    *   [Trello Card](https://trello.com/c/uVmA98D9)
+    *   [Github link](https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/42)
 *   Begins facebook login
-    *   https://trello.com/c/UAMvcOMX
-    *   https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/45
+    *   [Trello Card](https://trello.com/c/UAMvcOMX)
+    *   [Github link](https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/45)
 
 Back End tasks
 *   Implement login queries
-    *   https://trello.com/c/GxtRhHB0
-    *   https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/22
+    *   [Trello Card](https://trello.com/c/GxtRhHB0)
+    *   [Github link](https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/22)
 *   get CORS working, make a permanent link for deployed backend
-    *   https://trello.com/c/LlSIr6ua
-    *   https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/35
-    *   https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/36
+    *   [Trello Card](https://trello.com/c/LlSIr6ua)
+    *   [Github link](https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/35)
+    *   [Github link](https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/36)
 *   Server side stuff for facebook login
-    *   https://trello.com/c/UAMvcOMX
-    *   https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/48
+    *   [Trello Card](https://trello.com/c/UAMvcOMX)
+    *   [Github link](https://github.com/Lambda-School-Labs/Labs8-AdventureTracker/pull/48)
 
 We had several objectives this week, primarily having to do with API integration. We are using Stripe for payments, Google Maps for ... you guessed it, mapping, and OAuth so users can login with Facebook and Google.
 
