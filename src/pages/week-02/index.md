@@ -1,5 +1,5 @@
 ---
-title: Higher-Order Components
+title: Week 2
 date: "2018-11-16"
 featuredImage: './facebookLogin.png'
 ---
