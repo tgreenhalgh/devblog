@@ -6,7 +6,7 @@ date: "2018-11-30"
 
 ## The Whole Enchilda or, Life as a Team
 
-This week's whiteboard problem is Ring Buffer. The video can be found [here](https://youtu.be/2R-W8eMvjJk).
+This week's whiteboard problem is Ring Buffer. The video can be found [here](https://youtu.be/kssbGeLKPH8).
 
 
 This was pretty rough week for us, but we were still slinging quite a bit of code:
