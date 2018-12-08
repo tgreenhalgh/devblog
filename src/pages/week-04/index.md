@@ -109,7 +109,7 @@ The `mutation` itself looks like
 
 Testing locally, getting it working, then deploying and confirming everything worked took a minute to figure out. Locally we don't have the `userId` which is passed around on the deployed site, so I had to comment out the "logged in" test and assign a `id` to tie to the trip being created.
 
-In GraphQL Playground (an awesome tool that come with Prisma), I ran the following mutation to crate a trip:
+In GraphQL Playground (an awesome tool that come with Prisma), I ran the following mutation to create a trip:
 
 ```javascript
 mutation createTrip {
