@@ -50,7 +50,6 @@ Back End tasks
 The week we our task was to get all of the functionality going. We got part way there, needing to flesh out maps quite a bit more; namely trips and waypoints.
 
 ---
-![gitGraph](./facebookLogin.png)
 
 Facebook OAuth took a good chunk of the week for me. There was no good way to get the login from the backend to the frontend, which was our original plan, so I moved it to the frontend. Getting the schema setup wasn't too bad and Prisma is great about making all the connections for the data, so that was easy. Writing the mutations took just a bit as this is my first project with GraphQL. I have to say, though, that I'm loving it. Once everything was working, deployment woes immediately set in. Netlify wouldn't allow Facebook's pop-up to show! I scoured the docs, Googled the ins and outs of x-frames and then finally with a suggestion from Luis Hernandez (instructor extraordinaire at Lambda), it was solved!
 
