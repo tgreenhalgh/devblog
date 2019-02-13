@@ -87,7 +87,7 @@ So that didn't work. Well, it kind of worked. For whatever reason, [Chrome](http
     Content-Security-Policy = "frame-ancestors https://www.facebook.com; default-src 'self'; script-src 'self https://www.facebook.com/'; style-src 'self https://www.facebook.com/'"
 ```
 
-So it's `push`, get approval from teammate, get PM to merge, wait to Netlify to do its thing, and then *crash*. Netlify has know idea what `self` is!  I circled back to Netlify's docs and see:
+So it's `push`, get approval from teammate, get PM to merge, wait to Netlify to do its thing, and then *crash*. Netlify has no idea what `self` is!  I circled back to Netlify's docs and see:
 
 ```javascript
 [[headers]]
