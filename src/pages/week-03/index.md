@@ -96,7 +96,7 @@ So it's `push`, get approval from teammate, get PM to merge, wait to Netlify to 
     Content-Security-Policy = "frame-ancestors https://www.facebook.com"
 ```
 
-Once more, `push`, get approval from teammate, get PM to merge, wait to Netlify to do its thing, and then... it worked!!
+Once more, `push`, get approval from teammate, get PM to merge, wait for Netlify to do its thing, and then... it worked!!
 
 Now that I know, I suppose it makes sense that `frame-ancestors` has to do with `X-frame-options` .. they both have `frame` in it :) But at the time, going through the Netlify docs, it was not the least bit obvious. It seems like having Facebook Oauth would be a fairly common use case and it would have been nice to have to explained clearly in their docs, but now I know.
 
