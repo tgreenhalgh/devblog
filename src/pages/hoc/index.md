@@ -9,3 +9,5 @@ featuredImage: './functionalProgramming.png'
 Higher-Order Components (HOC) are not part of the React API, but because React components are highly composable, the functional programming paradigm of nesting functions can easily be used.
 
 Simply speaking, a higher-order component (HOC) is a function that takes a component and returns a new component.
+
+The official React docs have a section on HOC [here](https://reactjs.org/docs/higher-order-components.html).
